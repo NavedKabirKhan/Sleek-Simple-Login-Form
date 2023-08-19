@@ -1,4 +1,4 @@
-Sleek & Simple Login Form
+Sleek & Simple Login Page
 The repository contains a frontend login form created using HTML and CSS. 
 The form is designed to provide users with a visually appealing and user-friendly interface for logging into an application or website. 
 The HTML files structure the form's layout and input fields, while the CSS files style the form's appearance, including colors, fonts, and spacing. 
